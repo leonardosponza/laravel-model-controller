@@ -8,12 +8,12 @@
                         <div class="colonne-link">
                             <h3>DC COMICS</h3>
                             <ul>
-                                <li>dc</li>
-                                <li>dc</li>
-                                <li>dc</li>
-                                <li>dc</li>
-                                <li>dc</li>
-                                <li>dc</li>
+                                <li>roba a caso</li>
+                                <li>roba a caso</li>
+                                <li>roba a caso</li>
+                                <li>roba a caso</li>
+                                <li>roba a caso</li>
+                                <li>roba a caso</li>
                             </ul>
                             <h3>SHOP</h3>
                             <ul>
@@ -24,17 +24,17 @@
                         <div class="colonne-link">
                             <h3>DC</h3>
                             <ul>
-                                <li> dc</li>
-                                <li> dc</li>
-                                <li> dc</li>
-                                <li> dc</li>
-                                <li> dc</li>
-                                <li> dc</li>
-                                <li> dc</li>
-                                <li> dc</li>
-                                <li> dc</li>
-                                <li> dc</li>
-                                <li> dc</li>
+                                <li> robe dc</li>
+                                <li> robe dc</li>
+                                <li> robe dc</li>
+                                <li> robe dc</li>
+                                <li> robe dc</li>
+                                <li> robe dc</li>
+                                <li> robe dc</li>
+                                <li> robe dc</li>
+                                <li> robe dc</li>
+                                <li> robe dc</li>
+                                <li> robe dc</li>
                             </ul>
                         </div>
                     <div class="colonne-link">
